@@ -14,6 +14,7 @@ Default Settings:
     	step: 1 // increase in every iteration 
     	
 Example 1: 
+```html
   <p id="count-up"></p>
 
 <script>
@@ -21,8 +22,9 @@ $(document).ready(function(){
   $("#count-up").countUp();
 });
 </script>
-
+```
 Example 2: 
+```html
   <p id="count-up"></p>
 
 <script>
@@ -36,3 +38,4 @@ $(document).ready(function(){
     });
 });
 </script>
+```
